@@ -6,6 +6,8 @@ Given the scope of the project and the number of key concepts involved, a detail
 <div>
     <a href="https://www.notion.so/Minishell-7a779512c4d44c5d8ca33cbe9eab80a0?source=copy_link"><img src="https://img.shields.io/badge/Minishell-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
+
+
 ## Installation
 - Run make
 - Execute the program
